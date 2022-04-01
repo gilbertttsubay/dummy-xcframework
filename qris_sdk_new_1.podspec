@@ -95,7 +95,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.public_header_files = "Classes/**/*.h"
-   spec.vendored_frameworks= 'qris_sdk_new_1.xcframework'
+   spec.vendored_frameworks= 'framework_qris_part_2.framework'
 
 #   spec.dependency "Curry", "~> 1.4.0"
   spec.dependency 'IQKeyboardManagerSwift', '6.3.0'
