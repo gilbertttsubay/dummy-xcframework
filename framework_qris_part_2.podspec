@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "qris_sdk_new_1"
+  spec.name         = "framework_qris_part_2"
   spec.version      = "0.0.1"
   spec.summary      = "A short description of qris_sdk_new_1."
 
