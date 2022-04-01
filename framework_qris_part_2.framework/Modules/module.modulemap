@@ -1,4 +1,0 @@
-framework module framework_qris_part_2 {
-  header "framework_qris_part_2-Swift.h"
-  requires objc
-}
